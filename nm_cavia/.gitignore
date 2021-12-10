@@ -1,0 +1,22 @@
+.DS_Store
+*.pyc
+__pycache__
+.idea
+.ipynb_checkpoints
+.cache
+
+docker
+mujoco_key.txt
+
+# data folders
+data/miniimagenet/images
+data/CelebA/
+
+# result folders
+saves/
+logs/
+plots/
+results/
+*result_plots
+*result_files
+*.swp
