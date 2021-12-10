@@ -1,6 +1,6 @@
 ## Neuromodulated CAVIA
 
-Code for "[Context Meta-Reinforcement Learning via Neuromodulation](https://arxiv.org/abs/2111.00134)" - 
+Code for "[Context Meta-Reinforcement Learning via Neuromodulation](https://arxiv.org/abs/2111.00134)"
 
 Python 3.6 and PyTorch 1.2.0 were used for these experiments.
 

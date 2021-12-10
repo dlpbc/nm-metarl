@@ -1,6 +1,6 @@
 ## nm-metarl
 
-Code for "[Context Meta-Reinforcement Learning via Neuromodulated Networks](https://arxiv.org/abs/2111.00134)" - 
+Code for "[Context Meta-Reinforcement Learning via Neuromodulated Networks](https://arxiv.org/abs/2111.00134)"
 
 #### CAVIA
 

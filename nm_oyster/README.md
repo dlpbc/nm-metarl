@@ -1,6 +1,6 @@
 ## Neuromodulated PEARL
 
-Code for "[Context Meta-Reinforcement Learning via Neuromodulation](https://arxiv.org/abs/2111.00134)" - 
+Code for "[Context Meta-Reinforcement Learning via Neuromodulation](https://arxiv.org/abs/2111.00134)"
 
 - Prerequisites:
     - See the [original PEARL repo](https://github.com/katerakelly/oyster) for the pre-requisite.
